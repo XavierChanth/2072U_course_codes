@@ -1,2 +1,2 @@
-# 2072U_course_codes
-2072U course codes
+# CSCI / MATH 2072U Computational Science 1
+## Course Codes
